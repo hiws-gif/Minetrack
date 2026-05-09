@@ -12,8 +12,6 @@
     "uplot": "1.0.11",
     "winston": "^2.4.4",
     "ws": "^7.5.10"
-    "scripts": {
-    "start": "node server.js"
   },
   "repository": {
     "type": "git",

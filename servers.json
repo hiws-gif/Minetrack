@@ -1,12 +1,102 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "1b1t.cc",
+		"ip": "1b1t.cc",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "3b3t.org",
+		"ip": "3b3t.org",
+		"type": "PC"
+	},
+	{
+		"name": "0b0t.org",
+		"ip": "0b0t.org",
+		"type": "PC"
+	},
+	{
+		"name": "3b3t.pw",
+		"ip": "3b3t.pw",
+		"type": "PC"
+	},
+	{
+		"name": "nobnot.org",
+		"ip": "nobnot.org",
+		"type": "PC"
+	},
+	{
+		"name": "4b4t.us",
+		"ip": "4b4t.us",
+		"type": "PC"
+	},
+	{
+		"name": "purityvanilla.com",
+		"ip": "purityvanilla.com",
+		"type": "PC"
+	},
+	{
+		"name": "constantiam.net",
+		"ip": "constantiam.net",
+		"type": "PC"
+	},
+	{
+		"name": "oldfag.org",
+		"ip": "oldfag.org",
+		"type": "PC"
+	},
+	{
+		"name": "6b6t.org",
+		"ip": "6b6t.org",
+		"type": "PC"
+	},
+	{
+		"name": "9b9t.org",
+		"ip": "9b9t.org",
+		"type": "PC"
+	},
+	{
+		"name": "8b8t.me",
+		"ip": "8b8t.me",
+		"type": "PC"
+	},
+	{
+		"name": "5b5t.org",
+		"ip": "5b5t.org",
+		"type": "PC"
+	},
+	{
+		"name": "vforv.net",
+		"ip": "vforv.net",
+		"type": "PC"
+	},
+	{
+		"name": "10b10t.com",
+		"ip": "10b10t.com",
+		"type": "PC"
+	},
+	{
+		"name": "alacity.org",
+		"ip": "alacity.org",
+		"type": "PC"
+	},
+	{
+		"name": "Jonarchy.com",
+		"ip": "Jonarchy.com",
+		"type": "PC"
+	},
+	{
+		"name": "uneasyvanilla.com",
+		"ip": "uneasyvanilla.com",
+		"type": "PC"
+	},
+	{
+		"name": "2b2t.com.ar",
+		"ip": "2b2t.com.ar",
+		"type": "PC"
+	},
+	{
+		"name": "2b2t.org",
+		"ip": "2b2t.org",
 		"type": "PC"
 	}
 ]
